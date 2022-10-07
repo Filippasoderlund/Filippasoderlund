@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Filippasoderlund
+- 🌱 I’m currently learning html/css
+- 📫 How to reach me https://www.linkedin.com/in/filippa-s%C3%B6derlund-22ba29197
+
+<!---
+Filippasoderlund/Filippasoderlund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
