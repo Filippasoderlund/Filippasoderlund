@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Filippasoderlund
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me https://www.linkedin.com/in/filippa-s%C3%B6derlund-22ba29197
 
 <!---
